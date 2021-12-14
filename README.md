@@ -1,3 +1,4 @@
+![a_b28689e644dfb18706e9f8d8dba42e5a](https://user-images.githubusercontent.com/92912033/146045572-c12d684c-ef47-4b2a-87de-40f87c787388.gif)
 ### Hi there 👋 I'm demon_beast <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm demon_beast a discord Bot/Web Developer, I Spend most of time coding and listening music
@@ -45,7 +46,7 @@ I'm demon_beast a discord Bot/Web Developer, I Spend most of time coding and lis
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=demonbeast27&count_private=true&theme=tokyonight&hide=contribs,prs)
     
-    </li>
+   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demonbeast27&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
  
